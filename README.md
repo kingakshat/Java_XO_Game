@@ -1,1 +1,1 @@
-# Cricket_Scoreboard_JAVA
+# Java XO Game
